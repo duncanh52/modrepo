@@ -211,7 +211,7 @@
     <email>beenje AT gmail.com</email>
   </extension>
 </addon>
-	<addon id="script.module.routing" name="Plugin routing" version="0.2.0" provider-name="takoi">
+<addon id="script.module.routing" name="Plugin routing" version="0.2.0" provider-name="takoi">
     <requires>
         <import addon="xbmc.python" version="2.14.0"/>
     </requires>
