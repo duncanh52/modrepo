@@ -226,7 +226,7 @@
     <website>http://livestreamer.io</website>
   </extension>
 </addon>
-<addon id="script.module.ATFlive" name="[COLOR red]ATF IPTV Extra[/COLOR]" version="1.2" provider-name="Maverick">
+<addon id="script.module.ATFlive" name="[COLOR red]ATF IPTV Extra[/COLOR]" version="1.4" provider-name="Maverick">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.livestreamer" />
@@ -272,7 +272,7 @@
     <source></source>
   </extension>
 </addon>
-<addon id="script.module.Sports" name="[COLORlime]Sports[/COLOR]" version="1.4" provider-name="Maverick">
+<addon id="script.module.Sports" name="[COLORlime]Sports[/COLOR]" version="1.5" provider-name="Maverick">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.livestreamer" />
